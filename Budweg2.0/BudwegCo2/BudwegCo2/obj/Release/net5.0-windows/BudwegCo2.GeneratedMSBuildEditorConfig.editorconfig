@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = BudwegCo2
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Tobia\Source\Repos\Budweg2.0\BudwegCo2\BudwegCo2\
+=======
+build_property.ProjectDir = C:\Users\sigur\Source\Repos\Budweg\BudwegCo2\BudwegCo2\
+>>>>>>> df41c4d6e99862d221037dc7d62385aed332a997

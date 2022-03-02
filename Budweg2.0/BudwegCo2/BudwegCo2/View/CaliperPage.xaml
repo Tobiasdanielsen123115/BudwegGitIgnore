@@ -1,0 +1,19 @@
+﻿<Window x:Class="BudwegCo2.View.CaliperPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BudwegCo2.View"
+        mc:Ignorable="d"
+        Title="CaliperPage" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Height="434" Width="383" Background="Green"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="66,55,0,0" Text="BUDWEG" TextWrapping="Wrap" VerticalAlignment="Top" Height="51" Width="157" FontSize="36" FontWeight="Bold" Background="Green" Foreground="White"/>
+        <Label Content="Antal kalibrer renoveret: " HorizontalAlignment="Left" Margin="421,175,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtAmount" HorizontalAlignment="Left" Margin="572,179,0,0" Text="{Binding CaliperViewModel.Amount, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Label Content="CO2 sparet: " HorizontalAlignment="Left" Margin="421,234,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="txtSavedCo2Amount" HorizontalAlignment="Left" Margin="572,238,0,0" Text="{Binding CaliperViewModel.SavedCo2Amount, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtSavedCo2Amount_TextChanged"/>
+        <Button x:Name="CalcOk" Content="Udregn" HorizontalAlignment="Left" Margin="632,374,0,0" VerticalAlignment="Top" Click="btnCalc" Height="25" Width="96"/>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BudwegCo2/1.0.0": {
+        "runtime": {
+          "BudwegCo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BudwegCo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
