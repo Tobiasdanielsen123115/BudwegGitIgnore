@@ -11,13 +11,13 @@ namespace BudwegCo2.ViewModel
     public class CaliperController
     {
         //private CaliperViewModel cali;
-        private CaliperViewModel cali = new CaliperViewModel();
+        //private CaliperViewModel cali = new CaliperViewModel();
 
         Calculator calc = new Calculator();
-        public void Co2Calc()
+        public void Co2Calc(CaliperViewModel cvm)
         {
             
-            calc.CalcAdd(cali.Amount, cali.SavedCo2);
+            cvm.AmountCo2Saved = calc.CalcAdd(cvm.Amount, cvm.SavedCo2);
         }
     }
 }

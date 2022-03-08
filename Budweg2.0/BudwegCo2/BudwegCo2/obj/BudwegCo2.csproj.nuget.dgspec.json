@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {}
+    "C:\\Users\\Tobia\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {
+    "C:\\Users\\Tobia\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
+        "projectUniqueName": "C:\\Users\\Tobia\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
         "projectName": "BudwegCo2",
-        "projectPath": "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
+        "projectPath": "C:\\Users\\Tobia\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
         "packagesPath": "C:\\Users\\Tobia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\obj\\",
-=======
-    "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
-        "projectName": "BudwegCo2",
-        "projectPath": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
-        "packagesPath": "C:\\Users\\sigur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\obj\\",
->>>>>>> df41c4d6e99862d221037dc7d62385aed332a997
+        "outputPath": "C:\\Users\\Tobia\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sigur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
