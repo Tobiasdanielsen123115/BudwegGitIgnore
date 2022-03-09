@@ -20,7 +20,7 @@ namespace BudwegCo2.View
     /// </summary>
     public partial class CaliperPage : Window
     {
-        CaliperViewModel cvm = new CaliperViewModel();
+        WareViewModel cvm = new WareViewModel();
 
         
         
@@ -32,10 +32,11 @@ namespace BudwegCo2.View
 
         private void btnCalc(object sender, RoutedEventArgs e)
         {
-            CaliperController caliperController = new CaliperController();
-            
+            WareController wareController = new WareController();
 
-            caliperController.Co2Calc(cvm);
+            cvm.Date = DateTime.Now.ToString("MM/dd/yyyy");
+
+            wareController.Co2Calc(cvm);
             
             
         }
@@ -45,5 +46,6 @@ namespace BudwegCo2.View
            
             
         }
+
     }
 }
