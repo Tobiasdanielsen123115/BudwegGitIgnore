@@ -52,7 +52,6 @@ C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\De
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.dll
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\ref\BudwegCo2.dll
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.pdb
-C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.AssemblyReference.cache
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\CaliperPage.g.cs
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\MainWindow.g.cs
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\App.g.cs
@@ -100,3 +99,13 @@ C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\obj
 C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\ref\BudwegCo2.dll
 C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.pdb
 C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.genruntimeconfig.cache
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\HistoryPage.g.cs
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\HistoryPage.baml
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.CopyComplete
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.AssemblyReference.cache

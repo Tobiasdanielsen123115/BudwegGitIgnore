@@ -47,5 +47,10 @@ namespace BudwegCo2.View
             
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           HistoryPage history = new HistoryPage();
+           history.Show();
+        }
     }
 }
