@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\
 BudwegCo2
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\refor\source\repos\BudwegGitIgnore2.0\Budweg2.0\BudwegCo2\BudwegCo2\App.xaml
-21227348311
+C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\App.xaml
+3688172648
 
-10-2126731190
-194926992378
-View\CaliperPage.xaml;View\MainWindow.xaml;
+11-665889282
+1941880382348
+View\CaliperPage.xaml;View\HistoryPage.xaml;View\MainWindow.xaml;
 
 False
 

@@ -10,9 +10,15 @@
     <Compile Update="View\CaliperPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\HistoryPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="View\CaliperPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HistoryPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\MainWindow.xaml">
