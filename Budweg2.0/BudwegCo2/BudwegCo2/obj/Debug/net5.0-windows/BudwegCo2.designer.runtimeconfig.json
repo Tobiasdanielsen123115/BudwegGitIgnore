@@ -6,7 +6,7 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\refor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tobia\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\refor\\.nuget\\packages"
     ],
     "configProperties": {

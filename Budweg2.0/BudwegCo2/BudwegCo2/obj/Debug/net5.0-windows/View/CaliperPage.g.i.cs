@@ -77,7 +77,7 @@ namespace BudwegCo2.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BudwegCo2;component/view/caliperpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BudwegCo2;V1.0.0.0;component/view/caliperpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\CaliperPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
