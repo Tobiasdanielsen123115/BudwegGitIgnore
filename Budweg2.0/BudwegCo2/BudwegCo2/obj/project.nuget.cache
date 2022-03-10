@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "B+A1W09EGFgHEhbxA2QS+Nj7wCuDiakO4eqxPeAKRlXVH1JaXn1wOv3dan71eoX4r/rtAEvOIv1FheAKcHf8EQ==",
+  "dgSpecHash": "2Yh0GeveSzO8xjAaWL8GpPjPQMwP4SimFW12pComAe3UUvZKRUmUoeTO2iQrh1TreFUM+wGzYx7OXWGQuh+mFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tobia\\source\\repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
-=======
-  "dgSpecHash": "sVrSnfW2MLPsjV4bb3SOfp7A/mVzKH4KBbVbOrp9Cgf6+Kx18T19IdDsaXYzdxuur9TRqJtfhx2acfaOsUyypQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
->>>>>>> df41c4d6e99862d221037dc7d62385aed332a997
+  "projectFilePath": "C:\\Users\\sigur\\Source\\Repos\\BudwegGitIgnore\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
