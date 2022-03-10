@@ -34,13 +34,35 @@ namespace BudwegCo2.Model
 
                 cmd.ExecuteNonQuery();
 
-
-
-                
             }
-        }
+       }
+       public void GetAll(string date, int amount, double amountCo2Saved, int companyID)
+       {
+           {
+               using(SqlConnection con = new SqlConnection("Server=10.56.8.36;Database=P2DB09;User Id=P2-09;Password=OPENDB_09"))
+               {
+                    con.Open();
 
+                    SqlCommand cmd = new SqlCommand("SELECT Date, Amount, AmountCo2Saved, CompanyID FROM Co2", con);
+                    using (SqlDataReader dr = cmd.ExecuteReader())
+                    {
+                        while (dr.Read())
+                        {
+                            Ware ware = new Ware();
+                            ware.Amount =  Convert.ToInt32(dr["Amount"]);
+                            ware.AmountCo2Saved = Convert.ToDouble(dr["AmountCo2Saved"]);
+                            ware.Date = dr["Date"].ToString();
+                            ware.CompanyID = Convert.ToInt32(dr["CompanyID"]);
 
+                            Wares.Add(ware);
+                        }
+
+                    }
+               }
+           }
+       }
+
+        
 
     }
 }
