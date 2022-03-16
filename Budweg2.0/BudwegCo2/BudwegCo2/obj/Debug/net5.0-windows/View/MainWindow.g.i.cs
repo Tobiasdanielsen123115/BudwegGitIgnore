@@ -10,6 +10,7 @@
 //------------------------------------------------------------------------------
 
 using BudwegCo2;
+using BudwegCo2.View;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -53,7 +54,7 @@ namespace BudwegCo2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BudwegCo2;component/view/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BudwegCo2;V1.0.0.0;component/view/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

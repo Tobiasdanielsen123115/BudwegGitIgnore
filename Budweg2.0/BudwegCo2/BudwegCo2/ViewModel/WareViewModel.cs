@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BudwegCo2.Model;
+using System.Collections.ObjectModel;
 
 
 namespace BudwegCo2.ViewModel
@@ -12,6 +13,15 @@ namespace BudwegCo2.ViewModel
 
     public class WareViewModel : INotifyPropertyChanged
     {
+
+        private List<Ware> getWares = new List<Ware>();
+
+        public List<Ware> GetWares
+        {
+            get { return getWares; }
+            set { getWares = value; }
+        }
+
         public int CompanyID = 1;
 
         public string Date { get; set; }
@@ -22,6 +32,7 @@ namespace BudwegCo2.ViewModel
         public double SavedCo2 = 0.25;
 
         public event PropertyChangedEventHandler PropertyChanged;
+
 
         private double amountCo2Saved;
         public double AmountCo2Saved
