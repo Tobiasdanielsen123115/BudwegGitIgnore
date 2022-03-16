@@ -6,12 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Tobia\\.dotnet\\store\\|arch|\\|tfm|",
-<<<<<<< HEAD
-      "C:\\Users\\refor\\.nuget\\packages"
-=======
-      "C:\\Users\\Tobia\\.nuget\\packages"
->>>>>>> Historik
+      "C:\\Users\\sigur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sigur\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

@@ -21,9 +21,9 @@ namespace BudwegCo2.View
     public partial class CaliperPage : Window
     {
         WareViewModel cvm = new WareViewModel();
+        WareController wareController = new WareController();
 
-        
-        
+
         public CaliperPage()
         {
             InitializeComponent();
@@ -32,7 +32,7 @@ namespace BudwegCo2.View
 
         private void btnCalc(object sender, RoutedEventArgs e)
         {
-            WareController wareController = new WareController();
+            
 
             cvm.Date = DateTime.Now.ToString("MM/dd/yyyy");
 
@@ -49,8 +49,9 @@ namespace BudwegCo2.View
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-           HistoryPage history = new HistoryPage();
-           history.Show();
+            HistoryPage history = new HistoryPage();
+            history.Show();
+            wareController.GetAllWares();
         }
     }
 }

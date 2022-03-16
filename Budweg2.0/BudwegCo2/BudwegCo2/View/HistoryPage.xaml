@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="HistoryPage" Height="450" Width="800">
     <Grid>
-        <ListBox Margin="0,0,436,0" Background="LightGray"/>
+        <ListBox Margin="0,0,436,0" Background="LightGray" ItemsSource="{Binding GetWares, UpdateSourceTrigger=PropertyChanged}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding GetWares.Amount}"/>
+                        <Label Content=" "/>
+                        <Label Content="{Binding GetWares.Date}"/>
+                        <Label Content=" "/>
+                        <Label Content="{Binding AmountCo2Saved}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
     </Grid>
 </Window>

@@ -109,3 +109,35 @@ C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\De
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\HistoryPage.baml
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.CopyComplete
 C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.AssemblyReference.cache
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\CaliperPage.g.cs
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\HistoryPage.g.cs
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\App.g.cs
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2_MarkupCompile.cache
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2_MarkupCompile.lref
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\ref\BudwegCo2.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.pdb
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.exe
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.deps.json
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.runtimeconfig.json
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.runtimeconfig.dev.json
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\ref\BudwegCo2.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\BudwegCo2.pdb
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\CaliperPage.baml
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\HistoryPage.baml
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.g.resources
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.AssemblyInfoInputs.cache
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.AssemblyInfo.cs
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.CoreCompileInputs.cache
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.csproj.CopyComplete
+C:\Datamatiker Stuff\Budweg\Budweg2.0\BudwegCo2\BudwegCo2\obj\Debug\net5.0-windows\BudwegCo2.genruntimeconfig.cache

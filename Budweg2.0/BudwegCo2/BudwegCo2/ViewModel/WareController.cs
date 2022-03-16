@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BudwegCo2.Model;
+using System.Collections.ObjectModel;
 
 
 namespace BudwegCo2.ViewModel
@@ -12,7 +13,7 @@ namespace BudwegCo2.ViewModel
     {
         //private CaliperViewModel cali;
         //private CaliperViewModel cali = new CaliperViewModel();
-
+        
         WareRepo warerepo = new WareRepo();
 
         Calculator calc = new Calculator();
@@ -23,6 +24,13 @@ namespace BudwegCo2.ViewModel
 
             warerepo.SaveCo2(wvm.Date, wvm.Amount, wvm.AmountCo2Saved, wvm.CompanyID);
 
+        }
+
+        public void GetAllWares()
+        {
+            WareViewModel wvm = new WareViewModel();
+            warerepo.GetAll();
+            wvm.GetWares = warerepo.Wares;
         }
     }
 }
