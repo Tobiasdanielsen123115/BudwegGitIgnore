@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using BudwegCo2.ViewModel;
+
 
 namespace BudwegCo2.View
 {
@@ -19,9 +21,11 @@ namespace BudwegCo2.View
     /// </summary>
     public partial class HistoryPage : Window
     {
+       
         public HistoryPage()
         {
             InitializeComponent();
+            
         }
     }
 }

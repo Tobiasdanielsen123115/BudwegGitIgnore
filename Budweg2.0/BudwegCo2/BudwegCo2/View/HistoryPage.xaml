@@ -8,5 +8,6 @@
         Title="HistoryPage" Height="450" Width="800">
     <Grid>
         <ListBox Margin="0,0,436,0" Background="LightGray"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="588,268,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
