@@ -34,7 +34,7 @@ namespace BudwegCo2.View
         {
             
 
-            cvm.Date = DateTime.Now.ToString("MM/dd/yyyy");
+            cvm.Date = DateTime.Now.ToString("dd/MM/yyyy");
 
             wareController.Co2Calc(cvm);
             
@@ -51,7 +51,7 @@ namespace BudwegCo2.View
         {
             HistoryPage history = new HistoryPage();
             history.Show();
-            wareController.GetAllWares();
+            wareController.GetAllWares(history.DataContext as WareViewModel);
         }
     }
 }

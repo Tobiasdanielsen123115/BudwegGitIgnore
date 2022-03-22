@@ -21,11 +21,26 @@ namespace BudwegCo2.View
     /// </summary>
     public partial class HistoryPage : Window
     {
-       
+        WareViewModel wvm = new WareViewModel();
+        
         public HistoryPage()
         {
             InitializeComponent();
+            DataContext = wvm;
+           
+        }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
             
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+            //CaliperPage cp = new CaliperPage();
+            //cp.Show();
+           
         }
     }
 }

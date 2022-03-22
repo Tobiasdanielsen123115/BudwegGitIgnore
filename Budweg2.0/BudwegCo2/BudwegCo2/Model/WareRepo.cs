@@ -29,7 +29,7 @@ namespace BudwegCo2.Model
                                                  "VALUES (@Amount, @Date, @TotalAmountSavedCo2, @CompanyID)", con);
 
                 cmd.Parameters.Add(new SqlParameter("@Amount", amount));
-                cmd.Parameters.Add(new SqlParameter("@Date", date));
+                cmd.Parameters.Add(new SqlParameter("@Date", Convert.ToDateTime(date)));
                 cmd.Parameters.Add(new SqlParameter("@TotalAmountSavedCo2", amountCo2Saved));
                 cmd.Parameters.Add(new SqlParameter("@CompanyID", companyID));
 

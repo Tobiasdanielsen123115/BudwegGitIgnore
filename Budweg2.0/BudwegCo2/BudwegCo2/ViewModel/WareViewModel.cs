@@ -19,7 +19,14 @@ namespace BudwegCo2.ViewModel
         public List<Ware> GetWares
         {
             get { return getWares; }
-            set { getWares = value; }
+            set
+            {
+                if (getWares != value)
+                {
+                    getWares = value;
+                    OnPropertyChanged("GetWares");
+                }
+            }
         }
 
         public int CompanyID = 1;

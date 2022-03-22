@@ -26,9 +26,9 @@ namespace BudwegCo2.ViewModel
 
         }
 
-        public void GetAllWares()
+        public void GetAllWares(WareViewModel wvm)
         {
-            WareViewModel wvm = new WareViewModel();
+            //WareViewModel wvm = new WareViewModel();
             warerepo.GetAll();
             wvm.GetWares = warerepo.Wares;
         }

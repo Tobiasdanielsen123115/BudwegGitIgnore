@@ -7,23 +7,45 @@
         mc:Ignorable="d"
         Title="HistoryPage" Height="450" Width="800">
     <Grid>
-<<<<<<< HEAD
-        <ListBox Margin="0,0,436,0" Background="LightGray"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="588,268,0,0" VerticalAlignment="Top"/>
-=======
-        <ListBox Margin="0,0,436,0" Background="LightGray" ItemsSource="{Binding GetWares, UpdateSourceTrigger=PropertyChanged}">
+
+
+
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Antal Produceret/renoveret:          Dato:             Co2Sparet:              " TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="354" Background="Green" FontStyle="Italic"/>
+
+
+
+
+        <TextBox HorizontalAlignment="Left" Margin="364,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="436" Height="434" Background="Green"/>
+
+
+
+
+        <ListBox Margin="0,45,436,0" Background="LightGray"/>
+        <Button Content="Tilbage" HorizontalAlignment="Left" Margin="434,365,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click"/>
+        <ListBox Margin="0,45,436,0" Background="LightGray" ItemsSource="{Binding GetWares, UpdateSourceTrigger=PropertyChanged}" SelectionChanged="ListBox_SelectionChanged">
             <ListBox.ItemTemplate>
                 <DataTemplate>
-                    <StackPanel>
-                        <Label Content="{Binding GetWares.Amount}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="{Binding Amount}"/>
                         <Label Content=" "/>
-                        <Label Content="{Binding GetWares.Date}"/>
+                        <Label Content="{Binding Date}"/>
                         <Label Content=" "/>
                         <Label Content="{Binding AmountCo2Saved}"/>
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
->>>>>>> c4117b206b8fe728aaa6ec9275296ffc44bd4498
+        <Label Content="Co2Saved står i kg" HorizontalAlignment="Left" Margin="528,27,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+        <Image Margin="399,69,15,163">
+            <Image.Source>
+                <BitmapImage  UriSource="C:\Users\Tobia\Source\Repos\BudwegGitIgnore\Budweg2.0\BudwegCo2\BudwegCo2\stream.jpeg" />
+            </Image.Source>
+        </Image>
+        <Button Content="Ret fejl i amount" HorizontalAlignment="Left" Margin="436,327,0,0" VerticalAlignment="Top"/>
+        <Button Content="Slet tal" HorizontalAlignment="Left" Margin="587,327,0,0" VerticalAlignment="Top" Width="90" Height="20"/>
+
+
+
     </Grid>
 </Window>
